@@ -13,18 +13,20 @@ print(len("excellent"),"is the length")
 print("apple" in "Pineapple")
 
 # Question 5
-print()
+if "Peach" < "pear":
+    print("Peach Comes before pear")
 
 # Question 6
 print("x" * 100)
 
 # Question 7
-print()
+print(str(54321))
 
 # Question 8
-print()
+print("p" in "Pineapple")
 
 # Question 9
-print()
+print("\"Livin' On a Prayer\" is my friend's favorite song.")
 
 # Question 10
+print(len("\"Livin' On a Prayer\" is my friend's favorite song."))
